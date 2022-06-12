@@ -1,3 +1,8 @@
+"""
+    encoding and decoding of string
+    leetcode url: https://leetcode.com/problems/encode-and-decode-strings/
+"""
+
 class Codec:
     def encode(self, strs: List[str]) -> str:
         """Encodes a list of strings to a single string.
