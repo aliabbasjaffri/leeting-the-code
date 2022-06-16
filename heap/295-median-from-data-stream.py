@@ -1,3 +1,8 @@
+"""
+find median of data stream
+leetcode url: https://leetcode.com/problems/find-median-from-data-stream/
+"""
+
 class MedianFinder:
 
     def __init__(self):
