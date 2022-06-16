@@ -1,3 +1,7 @@
+"""
+fibonacci sequence to calculate the number of ways to climb stairs
+leetcode url: https://leetcode.com/problems/climbing-stairs/
+"""
 class Solution:
     def climbStairs(self, n: int) -> int:
         steps = {}
